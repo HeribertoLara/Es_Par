@@ -1,4 +1,4 @@
-##Bienvenido al Repositorio de la aplicacion  Es par
+#Bienvenido al Repositorio de la aplicacion  Es par
 **Instalacion**
 ya que es un proyecto en react  tienes que tener instalado Nodejs 
 necesitas abrir la terminal CMD y dirigirte a la carpeta donde deseas clonar el repositorio  de Github:
